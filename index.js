@@ -1,8 +1,8 @@
-import mobility from "./utils/mobility/Mobility";
-import condition from "./utils/mobility/Condition";
-import deposition from "./utils/mobility/Deposition";
-import increase from "./utils/mobility/Increase";
-import cascading from "./utils/mobility/Cascading";
+import mobility from "./lib/mobility/Mobility";
+import condition from "./lib/mobility/Condition";
+import deposition from "./lib/mobility/Deposition";
+import increase from "./lib/mobility/Increase";
+import cascading from "./lib/mobility/Cascading";
 
 export let Mobility = mobility;
 export let Condition = condition;
