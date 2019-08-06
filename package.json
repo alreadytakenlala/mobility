@@ -1,0 +1,11 @@
+{
+  "name": "mobility",
+  "version": "1.0.7",
+  "description": "一套动效框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itnewdata",
+  "license": "ISC"
+}
