@@ -14,6 +14,6 @@
 <h2 align="center">Supporting Mobility</h2>
 
 Mobility 是一个开源的动态UI框架，该框架专注于动效的开发，集成了常用的动态效果，让你页面酷炫起来，使我们的期望。
-- [Become a backer or sponsor on Patreon](https://www.patreon.com/evanyou).
+- [成为Mobility,为Mobility添砖加瓦](https://www.patreon.com/evanyou).
 - [Become a backer or sponsor on Open Collective](https://opencollective.com/vuejs).
 - [One-time donation via PayPal or crypto-currencies.](https://vuejs.org/support-vuejs/#One-time-Donations)
