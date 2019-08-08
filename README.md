@@ -1,4 +1,3 @@
-@超越一切
 <p align="center"><a href="itnewdata.com" target="_blank" rel="noopener noreferrer"><img width="200" src="https://itnewdata.com:12002/api/file/response/cb84f93117254abecf91a88124fa64ad" alt="Vue logo"></a></p>
 
 <p align="center">
